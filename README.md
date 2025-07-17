@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/1200x/1f/7d/bd/1f7dbd2ca117841e3da7dd4e64bd0acf.jpg)
+![MasterHead](https://i.pinimg.com/1200x/59/23/02/592302ab28528cb2b73c3e5cec39357a.jpg)
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">Front-end Developer from Georgia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anafkhaladze&label=Profile%20views&color=0e75b6&style=flat" alt="anafkhaladze" /> </p>
